@@ -1,2 +1,0 @@
-name: "peakerror_analyze wrapper"
-description: "determines matthews correlation coefficient of the peakerror output to measure the quality of the trained peaks for each parameter combination."

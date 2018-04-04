@@ -1,2 +1,0 @@
-name: "macs2 wrapper"
-description: "runs macs2 chip-seq peak caller to determine significant peaks from the chip-seq experiments."

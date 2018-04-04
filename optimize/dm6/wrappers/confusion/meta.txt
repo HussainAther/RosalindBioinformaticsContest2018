@@ -1,2 +1,0 @@
-name: "confusion wrapper"
-description: "computes the confusion matrix for each parameter combination for each sample"

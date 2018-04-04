@@ -1,2 +1,0 @@
-name: "random_forest_classifier wrapper"
-description: "ensemble of learning that constructs decisions trees and outputs the mode of the classes"

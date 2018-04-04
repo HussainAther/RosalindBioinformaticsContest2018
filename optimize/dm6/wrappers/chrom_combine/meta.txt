@@ -1,2 +1,0 @@
-name: "chrom_combine wrapper"
-description: "combines chromosome files of labels into the same file"

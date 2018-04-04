@@ -1,9 +1,0 @@
-channels:
-    - bioconda
-    - conda-forge
-
-dependencies:
-    - deeptools
-    - numpy
-    - scipy
-    - pysam

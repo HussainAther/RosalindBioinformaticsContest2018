@@ -1,2 +1,0 @@
-name: "svm wrapper"
-description: "support vector machine is a supervised learning model that searches for a hyperplane to divide data into two classes"

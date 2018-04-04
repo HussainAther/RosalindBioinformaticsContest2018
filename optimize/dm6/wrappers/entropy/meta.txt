@@ -1,2 +1,0 @@
-name: "entropy wrapper"
-description: "calculates entropy per chromosome per sample"

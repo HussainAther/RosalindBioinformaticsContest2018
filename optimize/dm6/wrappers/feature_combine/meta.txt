@@ -1,2 +1,0 @@
-name: "feature_combine wrapper"
-description: "combine all the feature metrics into output csv files that will be used for learning models"

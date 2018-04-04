@@ -1,2 +1,0 @@
-name: "intersect wrapper"
-description: "finds the intersecting regions across all peak caller parameter combinations"

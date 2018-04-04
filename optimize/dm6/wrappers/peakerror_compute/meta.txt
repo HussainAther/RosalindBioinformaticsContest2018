@@ -1,2 +1,0 @@
-name: "peakerror wrapper"
-description: "this wrapper checks the peak-calling results to compute the label errors"
