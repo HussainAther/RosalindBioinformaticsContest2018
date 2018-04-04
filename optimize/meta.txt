@@ -1,0 +1,1 @@
+#going to use this directory for re-creating the paper on optimizing chip-seq peak detectors with machine learning (Hocking, et al 2016)

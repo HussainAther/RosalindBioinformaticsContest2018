@@ -1,0 +1,2 @@
+name: "multiqc_all wrapper"
+info: aggregates results form chipseq analysis with all samples into one file.

@@ -1,0 +1,2 @@
+name: "cross_correlation wrapper"
+description: "collects cross-correlational profile numbers from MACS"

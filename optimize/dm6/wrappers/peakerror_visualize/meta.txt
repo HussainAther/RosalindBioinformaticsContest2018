@@ -1,0 +1,2 @@
+name: "peakerror_visualize wrapper"
+description: "determines matthews correlation coefficient of the peakerror output to measure the quality of the trained peaks. also determine the false positive and false negative rates to show how well trained parameters are working."

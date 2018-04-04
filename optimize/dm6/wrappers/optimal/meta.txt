@@ -1,0 +1,2 @@
+name: "optimal"
+description: "computes the optimal parameter combination for sample and for celltype-antibody combination by MCC"

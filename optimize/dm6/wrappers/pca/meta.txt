@@ -1,0 +1,2 @@
+name: "pca wrapper"
+description: "principal component analysis is a method for finding strong patternse within data sets"
